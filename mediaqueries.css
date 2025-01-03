@@ -94,6 +94,9 @@
     height: 46vw;
     justify-content: center;
   }
+  .sarthak-profile {
+    height: 175px;
+  }
   .section-text-p2 {
     font-size: 1.25rem;
   }
